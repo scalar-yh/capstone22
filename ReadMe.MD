@@ -1,5 +1,5 @@
 # Team Name : Shedule
-## Name : 김윤환(팀장-Web Dev, Degisn), 황영준(팀원-Web Dev, Degisn)
+## Name : 김윤환(팀장-Web Dev, Degisn), 황영준(팀원-Web Dev, Script Make)
 ## 졸업작품 소개 사이트 : 
 ## 포트폴리오 소개 URL(선택사항) : https://scalaryh.notion.site/afc3feeff45a45f8804537dbcbb89418
 

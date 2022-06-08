@@ -26,3 +26,14 @@
 ## <4Week`s>
 ### 각 페이지 별 HTML 작성
 ### CSS 작성 및 Bootstrap CSS 수정
+<<<<<<< HEAD
+=======
+
+## <5Week`s>
+### JS 작성 및 수정
+### CSS 작성 및 Bootstrap CSS 수정
+
+## <6Week`s>
+### XD 디자인 컨펌/수정 및 Img 컨펌/수정 
+### CSS 수정 및 이미지 슬라이드 추가
+>>>>>>> 9d6625551e60021d5fe344ac87db927c86b7ec4d

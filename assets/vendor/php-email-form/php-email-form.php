@@ -507,7 +507,7 @@ class PHPMailer
      *
      * @var string
      */
-    public $Host = 'mail.gogogolf.co.kr';
+    public $Host = 'localhost';
 
     /**
      * The default SMTP server port.
@@ -567,14 +567,14 @@ class PHPMailer
      *
      * @var string
      */
-    public $Username = 'gogogolf';
+    public $Username = '';
 
     /**
      * SMTP password.
      *
      * @var string
      */
-    public $Password = 'scalar5529!';
+    public $Password = '';
 
     /**
      * SMTP auth type.

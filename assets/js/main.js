@@ -1,7 +1,7 @@
-/**
-  * Page Name: DREAM
-  * Author: Kim yun hwan & Hwang young jun
-  * License: https://github.com/scalar-yh/capstone22
+/*
+* Page Name: Gogo-golf
+* Author: Kim yun hwan & Hwang young jun
+* License: https://github.com/scalar-yh/capstone22
 */
 (function() {
   "use strict";

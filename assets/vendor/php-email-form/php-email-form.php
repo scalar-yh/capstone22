@@ -173,10 +173,10 @@ class PHP_Email_Form {
       // Check and set SMTP
       if( is_array( $this->smtp) ) {
         $mail->isSMTP();
-        $mail->Host = $this->smtp['mail.gogogolf.co.kr'];
+        $mail->Host = $this->smtp['host'];
         $mail->SMTPAuth = true;
-        $mail->Username = $this->smtp['gogogolf'];
-        $mail->Password = $this->smtp['scalar5529!'];
+        $mail->Username = $this->smtp['username'];
+        $mail->Password = $this->smtp['password'];
         $mail->Port = $this->smtp['port'];
         $mail->SMTPSecure = $this->smtp['encryption'];
       }
@@ -507,7 +507,7 @@ class PHPMailer
      *
      * @var string
      */
-    public $Host = 'localhost';
+    public $Host = 'mail.gogogolf.co.kr';
 
     /**
      * The default SMTP server port.
@@ -567,14 +567,14 @@ class PHPMailer
      *
      * @var string
      */
-    public $Username = '';
+    public $Username = 'gogogolf';
 
     /**
      * SMTP password.
      *
      * @var string
      */
-    public $Password = '';
+    public $Password = 'scalar5529!';
 
     /**
      * SMTP auth type.

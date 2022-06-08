@@ -21,7 +21,7 @@
 
 ## <3Week`s>
 ### XD 디자인 컨펌/수정 및 Img 컨펌/수정 
-### One Page 형식에서 5 Page 형식으로 
+### One Page 형식에서 5 Page 형식으로 전환
 
 ## <4Week`s>
 ### 각 페이지 별 HTML 작성

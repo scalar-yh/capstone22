@@ -38,3 +38,10 @@
 ## <7Week`s>
 ### XD 디자인 컨펌/수정 및 Img 컨펌/수정 
 ### CSS 수정 및 이미지 슬라이드 추가
+
+## <8Week`s>
+### Icon 제작 및 Bootstrap Icon 사용
+### CSS 수정 및 이미지 슬라이드 수정
+
+## <9Week`s>
+### CSS 수정 및 모바일IMG 오류 수정
